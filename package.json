@@ -1,0 +1,20 @@
+{
+  "name": "chatgpt-chinese-blog-dot-blog",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs --host 127.0.0.1",
+    "build": "npm run seo:sync && vitepress build docs && npm run seo:postbuild",
+    "seo:sync": "node scripts/sync-discovery.mjs",
+    "seo:postbuild": "node scripts/sync-discovery.mjs --post-build",
+    "preview": "vitepress preview docs --host 127.0.0.1",
+    "docs:build": "npm run build",
+    "docs:dev": "npm run dev",
+    "docs:preview": "npm run preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.26"
+  }
+}
