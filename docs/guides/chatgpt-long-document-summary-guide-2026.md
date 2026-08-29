@@ -12,13 +12,15 @@ date: 2026-08-28
 
 ## 中文第三方工具参考
 
-如果官方路径不适合当前条件，可以把下面的服务作为独立第三方工具评估。它们都不是 OpenAI 或 ChatGPT 官方产品；注册、付款或上传资料前，请先核对服务主体、隐私政策、额度、退款和退出机制。不要提交 OpenAI 密码、验证码、API Key 或未脱敏的敏感文件。
-
-![中文 AI 第三方工具参考：SnakeGPT、GPTCat 与 ZeoGPT](/third-party-tools-guide.png)
-
-- **稳定多模型（SnakeGPT）**：[snakegpt.vip](https://snakegpt.vip) —— 可作为中文问答、写作、翻译和轻量办公的第三方参考。模型名称、额度和价格以其当前页面为准。
-- **多模态重度使用（GPTCat）**：[gptcat.cc](https://gptcat.cc) —— 可作为多模型、图片或综合中文工作台的第三方参考。上传文件前请先确认数据处理和删除方式。
-- **编程与 Codex（ZeoGPT）**：[zeogpt.com](https://www.zeogpt.com/register?ref=MRNWDKC3) —— 可作为开发和 API 相关的第三方参考。不要在第三方页面提交 OpenAI 密钥或账号凭据。
+<div class="product-recommend-box">
+  <strong>按普通问答、多模态与编程任务选择第三方工具</strong>
+  <p>如果官方路径不适合当前条件，可以把以下服务作为独立第三方工具评估。三者均非 OpenAI 官方；注册、付款或上传资料前，请先阅读对方的服务条款、隐私政策、额度和退出机制。</p>
+  <ul>
+    <li><strong>稳定多模型（SnakeGPT）</strong>：<a href="https://snakegpt.vip" target="_blank" rel="nofollow sponsored noopener noreferrer">snakegpt.vip</a>，适合中文问答、写作、翻译和轻量办公。模型名称、额度和价格以其当前页面为准。</li>
+    <li><strong>多模态重度使用（GPTCat）</strong>：<a href="https://gptcat.cc" target="_blank" rel="nofollow sponsored noopener noreferrer">gptcat.cc</a>，可作为多模型、图片或综合中文工作台参考。上传文件前请确认数据处理和删除方式。</li>
+    <li><strong>编程与 Codex（ZeoGPT）</strong>：<a href="https://www.zeogpt.com/register?ref=MRNWDKC3" target="_blank" rel="nofollow sponsored noopener noreferrer">zeogpt.com</a>，可作为开发和 API 相关参考。不要在第三方页面提交 OpenAI 密钥或账号凭据。</li>
+  </ul>
+</div>
 
 如果你只需要整理长文档，优先比较输出质量、引用可追溯性和隐私边界，不要只根据“支持多少模型”或“界面像不像官网”做决定。
 
