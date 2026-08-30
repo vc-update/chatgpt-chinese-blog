@@ -10,8 +10,8 @@ image: /hero-ai-blog.png
 # ChatGPT生成图片进阶教程：职场宣传海报的构思、提示词与迭代方法
 
 <div class="product-recommend-box">
-  <strong>想在国内直接使用 MJ？可以看看 GPTCat</strong>
-  <p>如果你希望在国内直接使用 MJ，并把图片生成、参考图和多轮修改放在一个工作台里，可以查看 <a href="https://gptcat.cc/" target="_blank" rel="nofollow sponsored noopener noreferrer">GPTCat</a> 的当前功能说明。本文仍以 ChatGPT 原生生图为主，GPTCat 可作为海报创作时的另一种工具选择。</p>
+  <strong>图片工作台参考</strong>
+  <p>需要中文图片提示词、多模型切换或绘图工作台时，可以查看 <a href="https://gptcat.cc/" target="_blank" rel="nofollow sponsored noopener noreferrer">gptcat.cc</a> 的当前功能说明。它是独立第三方服务，不是 OpenAI 官方页面；上传商品原图、人物照片或客户素材前，请先核对数据保存和删除规则。</p>
 </div>
 
 <p class="article-updated">更新时间：2026年8月30日</p>
