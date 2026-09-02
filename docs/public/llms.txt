@@ -1,0 +1,34 @@
+# ChatGPT 中文指南
+
+> 独立中文 ChatGPT 教程与资料整理站；不代表 OpenAI、Anthropic、Google 或 xAI 官方立场。
+
+## 核心入口
+- [ChatGPT官网入口与中文版使用指南](https://chatgpt-chinese.blog/chatgpt/official-entry-chinese-guide-2026): 核对官方域名、中文页面、国内访问边界与第三方平台区别。
+- [ChatGPT网页版在线使用教程](https://chatgpt-chinese.blog/chatgpt/web-online-use-guide-2026): 电脑和手机浏览器入口、登录、文件处理与常见故障。
+- [ChatGPT注册登录与验证排查](https://chatgpt-chinese.blog/chatgpt/register-login-guide-2026): 邮箱验证、登录循环、账号安全与故障定位。
+
+## 主题栏目
+- [ChatGPT栏目](https://chatgpt-chinese.blog/chatgpt/): 官网、中文版、网页版、功能与安全。
+- [使用教程](https://chatgpt-chinese.blog/guides/): Prompt、图片生成与日常任务。
+- [开发者栏目](https://chatgpt-chinese.blog/developer/): Codex、API Key 与开发安全。
+- [模型与对比](https://chatgpt-chinese.blog/models/): ChatGPT、Claude、Gemini、Grok 的任务选择。
+
+## 文章索引
+- [2026年AI写代码哪个好？ChatGPT、Claude、DeepSeek对比](https://chatgpt-chinese.blog/models/ai-coding-model-comparison-2026)
+- [ChatGPT生成图片进阶教程：职场宣传海报的构思、提示词与迭代方法](https://chatgpt-chinese.blog/guides/chatgpt-image-poster-advanced-guide-2026)
+- [ChatGPT官方下载指南：iOS、Android、Windows、macOS安装与安全核验（2026）](https://chatgpt-chinese.blog/chatgpt/chatgpt-official-download-guide-2026)
+- [ChatGPT长文档总结与资料整理教程：分段、引用、复核和隐私](https://chatgpt-chinese.blog/guides/chatgpt-long-document-summary-guide-2026)
+- [ChatGPT、Claude、Gemini、Grok怎么选：写作、长文档、联网和编程对比](https://chatgpt-chinese.blog/models/chatgpt-claude-gemini-grok-comparison-guide-2026)
+- [ChatGPT官网入口与中文版使用指南：官方网址、网页版和国内访问边界](https://chatgpt-chinese.blog/chatgpt/official-entry-chinese-guide-2026)
+- [ChatGPT提示词写作教程：中文任务怎么写得清楚，附可复制模板](https://chatgpt-chinese.blog/guides/prompt-writing-guide-2026)
+- [ChatGPT网页版在线使用教程：官网登录、中文设置、手机电脑免下载](https://chatgpt-chinese.blog/chatgpt/web-online-use-guide-2026)
+- [ChatGPT文件与图片上传教程：PDF、表格、截图、隐私脱敏与结果复核](https://chatgpt-chinese.blog/chatgpt/file-image-upload-guide-2026)
+- [ChatGPT中文版与镜像网站安全选择：官方、第三方平台和账号边界](https://chatgpt-chinese.blog/chatgpt/chinese-version-mirror-safety-guide-2026)
+- [ChatGPT注册登录与验证排查：邮箱、Google、Apple、验证码、登录循环](https://chatgpt-chinese.blog/chatgpt/register-login-guide-2026)
+- [GPT图片生成与编辑入门：中文提示词、文字排版、尺寸和隐私检查](https://chatgpt-chinese.blog/guides/gpt-image-use-guide-2026)
+- [OpenAI API Key安全配置指南：环境变量、.env、泄露处理与额度控制](https://chatgpt-chinese.blog/developer/api-key-security-guide-2026)
+- [OpenAI Codex安装与使用教程：CLI、项目权限、代码修改和安全检查](https://chatgpt-chinese.blog/developer/codex-install-use-guide-2026)
+
+## 内容边界
+- 文章中的官方链接用于事实核对；第三方服务会单独标注，不等同于官方入口。
+- 本站不要求读者提交密码、验证码、API Key、银行卡或身份证信息。

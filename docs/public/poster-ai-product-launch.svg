@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
+  <title id="title">AI助手产品发布方形海报示例</title>
+  <desc id="desc">蓝绿色方形产品发布海报，中心为抽象 AI 光球和悬浮卡片。</desc>
+  <defs>
+    <radialGradient id="b"><stop stop-color="#244f88"/><stop offset="1" stop-color="#07182e"/></radialGradient>
+    <linearGradient id="o" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#68f5d2"/><stop offset="1" stop-color="#55a9ff"/></linearGradient>
+    <filter id="s"><feGaussianBlur stdDeviation="46"/></filter>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#b)"/>
+  <circle cx="620" cy="585" r="290" fill="#58efcf" opacity=".18" filter="url(#s)"/>
+  <text x="82" y="116" fill="#8df6dc" font-size="25" letter-spacing="6" font-family="Arial,Microsoft YaHei,sans-serif">NEW AI WORKFLOW</text>
+  <text x="82" y="225" fill="white" font-size="70" font-weight="700" font-family="Arial,Microsoft YaHei,sans-serif">让想法</text>
+  <text x="82" y="305" fill="white" font-size="70" font-weight="700" font-family="Arial,Microsoft YaHei,sans-serif">更快变成作品</text>
+  <circle cx="625" cy="630" r="168" fill="url(#o)"/>
+  <circle cx="590" cy="590" r="50" fill="#fff" opacity=".8"/>
+  <path d="M570 720 C610 760 690 752 720 705" fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round" opacity=".7"/>
+  <g fill="#effffc" opacity=".92">
+    <rect x="150" y="510" width="190" height="118" rx="18" transform="rotate(-12 150 510)"/>
+    <rect x="860" y="420" width="210" height="132" rx="18" transform="rotate(14 860 420)"/>
+    <rect x="830" y="790" width="230" height="140" rx="18" transform="rotate(-10 830 790)"/>
+  </g>
+  <g stroke="#5af0cb" stroke-width="4" opacity=".8"><path d="M330 570L470 620"/><path d="M795 540L745 590"/><path d="M820 820L725 720"/></g>
+  <rect x="82" y="1000" width="290" height="62" rx="31" fill="#5af0cb"/>
+  <text x="135" y="1041" fill="#06223a" font-size="27" font-weight="700" font-family="Arial,Microsoft YaHei,sans-serif">立即了解</text>
+  <text x="82" y="1132" fill="#c7d9e8" font-size="22" font-family="Arial,Microsoft YaHei,sans-serif">示例 02 · 方形构图适合社交媒体发布</text>
+</svg>

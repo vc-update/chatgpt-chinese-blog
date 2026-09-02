@@ -1,0 +1,8 @@
+node_modules/
+docs/.vitepress/dist/
+.vercel/
+docs/.vitepress/dist/
+.vercel/
+*.local
+
+.vercel
