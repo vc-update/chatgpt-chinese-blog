@@ -16,7 +16,8 @@ image: /hero-ai-blog.png
     <li><strong>GPTCat</strong>：<a href="https://gptcat.cc/" target="_blank" rel="nofollow sponsored noopener noreferrer">访问 GPTCat</a>，适合多模型切换，以及图片、语音等常用 AI 功能。</li>
     <li><strong>SnakeGPT</strong>：<a href="https://snakegpt.vip/" target="_blank" rel="nofollow sponsored noopener noreferrer">访问 SnakeGPT</a>，适合日常对话、写作、学习和办公任务。</li>
   </ul>
-  <p>具体模型名称、入口和功能会随产品版本更新，使用时以页面当前显示为准。下面再回到 OpenAI 官方公布的 GPT-6 Astra，看看它到底更新了什么。</p>
+  <p>目前产品侧主要提供 GPT-5.6、Claude 5.0、Grok 4.5、Gemini 3.1 Pro、DeepSeek-V3 等模型，具体名称、额度、工具和价格会根据产品版本持续更新，使用时以页面当前显示为准。</p>
+  <p>GPT-6 与 GPT-6 Astra 也在后续上线计划中。我们会根据模型权限、稳定性和产品接入进度逐步更新模型列表，届时以 GPTCat、SnakeGPT 页面中的实际公告和入口为准。下面再回到 OpenAI 官方公布的 GPT-6 Astra，看看它到底更新了什么。</p>
 </div>
 
 <p class="article-updated">更新时间：2026年9月4日</p>
@@ -161,4 +162,3 @@ OpenAI 官方公布的 API Standard 价格是：输入每百万 token 10 美元�
 ## 总结
 
 GPT-6 Astra 的升级重点可以概括为三点：更强的电脑与浏览器操作、更可靠的专业交付物生成，以及更高的代码、科学和长上下文任务上限。官方跑分提供了方向，但真正决定是否值得采用的，仍是你的资料、工具权限、人工复核和预算。先用一组可重复的真实任务做小规模测试，再逐步接入日常工作流，会比只看排行榜更稳妥。
-
