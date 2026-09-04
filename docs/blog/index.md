@@ -8,9 +8,10 @@ robots: index,follow
 
 这里汇总本站已经发布的 ChatGPT 官网、中文版、网页版、功能、Prompt、Codex、API 和多模型教程。每篇文章只服务一个清晰问题；遇到入口、模型和政策变化时，请优先查看文章中的官方来源。
 
+- **2026-09-04** · [GPT-6 Astra来了：能力、跑分、价格与使用指南（2026年9月）](/models/gpt-6-astra-guide-2026)：GPT-6 Astra 官方发布信息整理：核心能力、公开评测、ChatGPT 与 API 可用范围、价格和实际使用建议。
+- **2026-09-03** · [ChatGPT官方下载指南：iOS、Android、Windows、macOS安装与安全核验（2026）](/chatgpt/chatgpt-official-download-guide-2026)：ChatGPT官方下载与安装教程，整理iOS、Android、Windows、macOS官方渠道、版本核验、登录排查和国内用户安全下载注意事项。
 - **2026-09-02** · [2026年AI写代码哪个好？ChatGPT、Claude、DeepSeek对比](/models/ai-coding-model-comparison-2026)：2026年ChatGPT、Claude、DeepSeek写代码实测对比，覆盖日常编程、Debug、长代码、中文项目和成本敏感场景，给出按需求选择的建议。
 - **2026-08-30** · [ChatGPT生成图片进阶教程：职场宣传海报的构思、提示词与迭代方法](/guides/chatgpt-image-poster-advanced-guide-2026)：面向职场用户的 ChatGPT 生图进阶教程，围绕宣传海报讲清需求拆解、构图、文案、品牌风格、分步修改和交付检查，并提供可复制 Prompt。
-- **2026-08-29** · [ChatGPT官方下载指南：iOS、Android、Windows、macOS安装与安全核验（2026）](/chatgpt/chatgpt-official-download-guide-2026)：ChatGPT官方下载与安装教程，整理iOS、Android、Windows、macOS官方渠道、版本核验、登录排查和国内用户安全下载注意事项。
 - **2026-08-28** · [ChatGPT长文档总结与资料整理教程：分段、引用、复核和隐私](/guides/chatgpt-long-document-summary-guide-2026)：ChatGPT 长文档总结与资料整理教程，覆盖 PDF、会议记录、研究资料的拆分方法、提示词模板、引用核对、事实复核和隐私保护。
 - **2026-08-27** · [ChatGPT、Claude、Gemini、Grok怎么选：写作、长文档、联网和编程对比](/models/chatgpt-claude-gemini-grok-comparison-guide-2026)：ChatGPT、Claude、Gemini、Grok 多模型选择指南，按写作、长文档、联网信息、代码、图片和账号边界比较测试方法，不做绝对排名。
 - **2026-08-27** · [ChatGPT官网入口与中文版使用指南：官方网址、网页版和国内访问边界](/chatgpt/official-entry-chinese-guide-2026)：核对 ChatGPT 官网入口、OpenAI 官方页面、中文界面、网页版和第三方镜像的区别，并整理国内用户的安全使用步骤。

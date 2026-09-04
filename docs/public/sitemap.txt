@@ -19,5 +19,6 @@ https://chatgpt-chinese.blog/guides/prompt-writing-guide-2026
 https://chatgpt-chinese.blog/
 https://chatgpt-chinese.blog/models/ai-coding-model-comparison-2026
 https://chatgpt-chinese.blog/models/chatgpt-claude-gemini-grok-comparison-guide-2026
+https://chatgpt-chinese.blog/models/gpt-6-astra-guide-2026
 https://chatgpt-chinese.blog/models
 https://chatgpt-chinese.blog/privacy

@@ -10,3 +10,4 @@ updated: 2026-08-27
 
 - [ChatGPT、Claude、Gemini、Grok怎么选](/models/chatgpt-claude-gemini-grok-comparison-guide-2026)
 - [2026年AI写代码哪个好？ChatGPT、Claude、DeepSeek对比](/models/ai-coding-model-comparison-2026)
+- [GPT-6 Astra来了：能力、跑分、价格与使用指南（2026年9月）](/models/gpt-6-astra-guide-2026)
