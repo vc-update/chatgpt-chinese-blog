@@ -17,7 +17,7 @@ image: /hero-ai-blog.png
     <li><strong>SnakeGPT</strong>：<a href="https://snakegpt.vip/" target="_blank" rel="nofollow sponsored noopener noreferrer">访问 SnakeGPT</a>，适合日常对话、写作、学习和办公任务。</li>
   </ul>
   <p>目前产品侧主要提供 GPT-5.6、Claude 5.0、Grok 4.5、Gemini 3.1 Pro、DeepSeek-V3 等模型，具体名称、额度、工具和价格会根据产品版本持续更新，使用时以页面当前显示为准。</p>
-  <p>GPT-6 与 GPT-6 Astra 也在后续上线计划中。我们会根据模型权限、稳定性和产品接入进度逐步更新模型列表，届时以 GPTCat、SnakeGPT 页面中的实际公告和入口为准。下面再回到 OpenAI 官方公布的 GPT-6 Astra，看看它到底更新了什么。</p>
+  <p>GPT-6 与 GPT-6 Astra 已接入 GPTCat、SnakeGPT，可在产品内选择体验。具体入口、额度、工具和价格会根据产品版本持续更新，使用时以页面当前显示为准。下面再回到 OpenAI 官方公布的 GPT-6 Astra，看看它到底更新了什么。</p>
 </div>
 
 <p class="article-updated">更新时间：2026年9月4日</p>
@@ -158,6 +158,7 @@ OpenAI 官方公布的 API Standard 价格是：输入每百万 token 10 美元�
 - [ChatGPT、Claude、Gemini、Grok怎么选](/models/chatgpt-claude-gemini-grok-comparison-guide-2026)
 - [OpenAI Codex安装与使用教程](/developer/codex-install-use-guide-2026)
 - [ChatGPT长文档总结与资料整理教程](/guides/chatgpt-long-document-summary-guide-2026)
+- [GPT-6 Astra怎么用？入口、可用范围与API模型名指南](/models/gpt-6-astra-use-guide-2026)
 
 ## 总结
 

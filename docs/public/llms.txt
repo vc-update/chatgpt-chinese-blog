@@ -14,6 +14,7 @@
 - [模型与对比](https://chatgpt-chinese.blog/models/): ChatGPT、Claude、Gemini、Grok 的任务选择。
 
 ## 文章索引
+- [GPT-6 Astra怎么用？入口、可用范围与API模型名指南（2026）](https://chatgpt-chinese.blog/models/gpt-6-astra-use-guide-2026)
 - [GPT-6 Astra来了：能力、跑分、价格与使用指南（2026年9月）](https://chatgpt-chinese.blog/models/gpt-6-astra-guide-2026)
 - [ChatGPT官方下载指南：iOS、Android、Windows、macOS安装与安全核验（2026）](https://chatgpt-chinese.blog/chatgpt/chatgpt-official-download-guide-2026)
 - [2026年AI写代码哪个好？ChatGPT、Claude、DeepSeek对比](https://chatgpt-chinese.blog/models/ai-coding-model-comparison-2026)
