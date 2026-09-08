@@ -15,6 +15,18 @@ image: /hero-ai-blog.png
 
 如果你还没有进入 ChatGPT，可以先阅读 [ChatGPT 官网入口与中文版使用指南](/chatgpt/official-entry-chinese-guide-2026)；账号和入口确认后，再按本文处理表格。
 
+## 相关入口与安全文章
+
+表格分析通常会涉及登录、文件上传和结果导出，建议按实际步骤继续阅读官网站的对应文章：
+
+- [ChatGPT官网入口：官方网址、登录入口与中文版安全核验](https://chatgpt-guanwang.com/official/entry)：先确认最终域名和登录页面，再开始上传文件。
+- [ChatGPT上传文件安全吗：文档、图片、表格和隐私数据检查清单](https://chatgpt-guanwang.com/safety/chatgpt-upload-files-privacy-data-security-checklist-20260805)：检查 Excel、CSV、PDF 和客户资料的脱敏范围。
+- [ChatGPT提示词怎么写：中文办公、写作、翻译和总结模板](https://chatgpt-guanwang.com/guides/chatgpt-prompt-writing-chinese-office-translation-summary-20260805)：把表格任务改写成清晰的办公提示词。
+- [ChatGPT镜像网站怎么选：登录、隐私、付款与真假检查](https://chatgpt-guanwang.com/safety/chatgpt-mirror-site-risk-check-2026)：使用其他网页工具前，先核对账号、隐私和付款规则。
+- [ChatGPT两步验证怎么设置：登录安全、验证器与恢复检查清单](https://chatgpt-guanwang.com/safety/chatgpt-account-two-factor-authentication-security-check-20260908)：处理多人协作或多设备登录时，补齐账户安全设置。
+
+这些文章分别承接“入口核验—文件安全—提示词—工具选择—账户保护”五个环节；本文则专注 Excel/CSV 的分析方法，两个站点的内容可以按任务串联阅读。
+
 ## 可用于表格任务的产品入口参考
 
 如果你希望在中文界面中比较多个模型，或把表格分析与图片、语音、深度研究等任务放在同一个工作流里，可以参考下面两个产品。实际模型名称、额度和工具入口以产品当前页面为准：
