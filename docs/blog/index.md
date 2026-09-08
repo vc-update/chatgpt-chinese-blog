@@ -8,6 +8,7 @@ robots: index,follow
 
 这里汇总本站已经发布的 ChatGPT 官网、中文版、网页版、功能、Prompt、Codex、API 和多模型教程。每篇文章只服务一个清晰问题；遇到入口、模型和政策变化时，请优先查看文章中的官方来源。
 
+- **2026-09-08** · [ChatGPT 表格分析怎么做？Excel、CSV 上传与提问模板【2026年9月】](/guides/chatgpt-spreadsheet-analysis-tutorial-20260908)：从 Excel 和 CSV 文件整理、字段说明、指标提问到结果复核，讲清 ChatGPT 表格分析的完整流程，并提供可复制的中文提示词模板。
 - **2026-09-07** · [GPT-6 Astra怎么用？入口、可用范围与API模型名指南（2026）](/models/gpt-6-astra-use-guide-2026)：GPT-6 Astra怎么用、在哪里进入、哪些ChatGPT套餐可以使用，以及API模型名、请求示例和企业接入核验方法。
 - **2026-09-04** · [GPT-6 Astra来了：能力、跑分、价格与使用指南（2026年9月）](/models/gpt-6-astra-guide-2026)：GPT-6 Astra 官方发布信息整理：核心能力、公开评测、ChatGPT 与 API 可用范围、价格和实际使用建议。
 - **2026-09-03** · [ChatGPT官方下载指南：iOS、Android、Windows、macOS安装与安全核验（2026）](/chatgpt/chatgpt-official-download-guide-2026)：ChatGPT官方下载与安装教程，整理iOS、Android、Windows、macOS官方渠道、版本核验、登录排查和国内用户安全下载注意事项。
