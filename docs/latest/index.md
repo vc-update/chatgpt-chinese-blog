@@ -8,6 +8,7 @@ robots: noindex,follow
 
 这里按文章的实际修订日期倒序列出本站最近更新的内容。更新时间只表示本站内容修订时间，不代表相关产品一定在同一天发生变化；涉及账号、模型、价格和地区可用性时，请回到文章中的官方来源核对。
 
+- **2026-09-09** · [ChatGPT Images 2.5来了：新功能、提示词与图片编辑教程（2026）](/guides/chatgpt-images-2-5-guide-2026)：ChatGPT Images 2.5 官方更新整理，介绍参考图保真、精准编辑、多轮一致性、Sketch、模板、分享和 API 模型，并附可复制提示词。
 - **2026-09-08** · [ChatGPT 表格分析怎么做？Excel、CSV 上传与提问模板【2026年9月】](/guides/chatgpt-spreadsheet-analysis-tutorial-20260908)：从 Excel 和 CSV 文件整理、字段说明、指标提问到结果复核，讲清 ChatGPT 表格分析的完整流程，并提供可复制的中文提示词模板。
 - **2026-09-07** · [GPT-6 Astra怎么用？入口、可用范围与API模型名指南（2026）](/models/gpt-6-astra-use-guide-2026)：GPT-6 Astra怎么用、在哪里进入、哪些ChatGPT套餐可以使用，以及API模型名、请求示例和企业接入核验方法。
 - **2026-09-04** · [GPT-6 Astra来了：能力、跑分、价格与使用指南（2026年9月）](/models/gpt-6-astra-guide-2026)：GPT-6 Astra 官方发布信息整理：核心能力、公开评测、ChatGPT 与 API 可用范围、价格和实际使用建议。

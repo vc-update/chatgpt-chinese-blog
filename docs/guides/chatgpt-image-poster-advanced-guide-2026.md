@@ -285,6 +285,7 @@ image: /hero-ai-blog.png
 - [ChatGPT提示词写作教程](/guides/prompt-writing-guide-2026)
 - [ChatGPT网页版在线使用教程](/chatgpt/web-online-use-guide-2026)
 - [ChatGPT文件与图片上传教程](/chatgpt/file-image-upload-guide-2026)
+- [ChatGPT Images 2.5来了：新功能、提示词与图片编辑教程](/guides/chatgpt-images-2-5-guide-2026)
 
 ## 总结
 

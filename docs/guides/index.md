@@ -13,3 +13,4 @@ updated: 2026-08-27
 - [ChatGPT表格分析怎么做：Excel、CSV上传与提问模板](/guides/chatgpt-spreadsheet-analysis-tutorial-20260908)
 - [ChatGPT提示词写作教程：中文任务如何写得清楚](/guides/prompt-writing-guide-2026)
 - [GPT图片生成与编辑入门：提示词、尺寸和隐私检查](/guides/gpt-image-use-guide-2026)
+- [ChatGPT Images 2.5来了：新功能、提示词与图片编辑教程](/guides/chatgpt-images-2-5-guide-2026)
