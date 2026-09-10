@@ -8,10 +8,11 @@ robots: index,follow
 
 这里汇总本站已经发布的 ChatGPT 官网、中文版、网页版、功能、Prompt、Codex、API 和多模型教程。每篇文章只服务一个清晰问题；遇到入口、模型和政策变化时，请优先查看文章中的官方来源。
 
+- **2026-09-11** · [GPT-6 Astra 实战教程：写作、编程与长文档任务完整流程（2026）](/models/gpt-6-astra-practical-guide-2026)：GPT-6 Astra 实战教程，按写作、编程和长文档三个职场场景讲清任务拆解、提示词、工具权限、结果复核与交付步骤。
+- **2026-09-11** · [GPT-6 Astra怎么用？入口、权限核验与 API 模型名指南（2026）](/models/gpt-6-astra-use-guide-2026)：GPT-6 Astra 怎么用、在哪里进入、如何核对 ChatGPT 套餐和工作区权限，以及 API 模型名、请求示例和企业接入方法。
 - **2026-09-10** · [ChatGPT官网入口最新地址：网页版、中文版与国内使用指南（2026）](/chatgpt/official-entry-chinese-guide-2026)：ChatGPT官网入口、网页版地址、中文版使用方法和国内用户常见问题整理，包含登录、手机电脑访问、模型功能与安全核验步骤。
 - **2026-09-09** · [ChatGPT Images 2.5来了：新功能、提示词与图片编辑教程（2026）](/guides/chatgpt-images-2-5-guide-2026)：ChatGPT Images 2.5 官方更新整理，介绍参考图保真、精准编辑、多轮一致性、Sketch、模板、分享和 API 模型，并附可复制提示词。
 - **2026-09-08** · [ChatGPT 表格分析怎么做？Excel、CSV 上传与提问模板【2026年9月】](/guides/chatgpt-spreadsheet-analysis-tutorial-20260908)：从 Excel 和 CSV 文件整理、字段说明、指标提问到结果复核，讲清 ChatGPT 表格分析的完整流程，并提供可复制的中文提示词模板。
-- **2026-09-07** · [GPT-6 Astra怎么用？入口、可用范围与API模型名指南（2026）](/models/gpt-6-astra-use-guide-2026)：GPT-6 Astra怎么用、在哪里进入、哪些ChatGPT套餐可以使用，以及API模型名、请求示例和企业接入核验方法。
 - **2026-09-04** · [GPT-6 Astra来了：能力、跑分、价格与使用指南（2026年9月）](/models/gpt-6-astra-guide-2026)：GPT-6 Astra 官方发布信息整理：核心能力、公开评测、ChatGPT 与 API 可用范围、价格和实际使用建议。
 - **2026-09-03** · [ChatGPT官方下载指南：iOS、Android、Windows、macOS安装与安全核验（2026）](/chatgpt/chatgpt-official-download-guide-2026)：ChatGPT官方下载与安装教程，整理iOS、Android、Windows、macOS官方渠道、版本核验、登录排查和国内用户安全下载注意事项。
 - **2026-09-02** · [2026年AI写代码哪个好？ChatGPT、Claude、DeepSeek对比](/models/ai-coding-model-comparison-2026)：2026年ChatGPT、Claude、DeepSeek写代码实测对比，覆盖日常编程、Debug、长代码、中文项目和成本敏感场景，给出按需求选择的建议。

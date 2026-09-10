@@ -14,10 +14,11 @@
 - [模型与对比](https://chatgpt-chinese.blog/models/): ChatGPT、Claude、Gemini、Grok 的任务选择。
 
 ## 文章索引
+- [GPT-6 Astra 实战教程：写作、编程与长文档任务完整流程（2026）](https://chatgpt-chinese.blog/models/gpt-6-astra-practical-guide-2026)
+- [GPT-6 Astra怎么用？入口、权限核验与 API 模型名指南（2026）](https://chatgpt-chinese.blog/models/gpt-6-astra-use-guide-2026)
 - [ChatGPT官网入口最新地址：网页版、中文版与国内使用指南（2026）](https://chatgpt-chinese.blog/chatgpt/official-entry-chinese-guide-2026)
 - [ChatGPT Images 2.5来了：新功能、提示词与图片编辑教程（2026）](https://chatgpt-chinese.blog/guides/chatgpt-images-2-5-guide-2026)
 - [ChatGPT 表格分析怎么做？Excel、CSV 上传与提问模板【2026年9月】](https://chatgpt-chinese.blog/guides/chatgpt-spreadsheet-analysis-tutorial-20260908)
-- [GPT-6 Astra怎么用？入口、可用范围与API模型名指南（2026）](https://chatgpt-chinese.blog/models/gpt-6-astra-use-guide-2026)
 - [GPT-6 Astra来了：能力、跑分、价格与使用指南（2026年9月）](https://chatgpt-chinese.blog/models/gpt-6-astra-guide-2026)
 - [ChatGPT官方下载指南：iOS、Android、Windows、macOS安装与安全核验（2026）](https://chatgpt-chinese.blog/chatgpt/chatgpt-official-download-guide-2026)
 - [2026年AI写代码哪个好？ChatGPT、Claude、DeepSeek对比](https://chatgpt-chinese.blog/models/ai-coding-model-comparison-2026)
