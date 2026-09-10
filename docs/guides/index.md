@@ -1,6 +1,6 @@
 ---
-title: ChatGPT实用教程
-description: ChatGPT提示词、图片生成、中文写作和日常任务教程目录。
+title: ChatGPT 实用教程：提示词、图片生成与办公任务
+description: ChatGPT 提示词写作、图片生成、长文档整理、表格分析和中文办公任务教程目录，提供可复用的步骤、检查清单和示例模板。
 updated: 2026-08-27
 ---
 

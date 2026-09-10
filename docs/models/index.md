@@ -1,6 +1,6 @@
 ---
-title: ChatGPT与主流AI模型对比
-description: ChatGPT、Claude、Gemini、Grok 的任务选择、功能差异和安全使用参考。
+title: ChatGPT 与主流 AI 模型对比：能力、任务与选择方法
+description: ChatGPT、Claude、Gemini、Grok 及其他主流 AI 模型的任务选择、功能差异、测试方法和安全使用参考，按写作、长文档、图片与编程场景整理。
 updated: 2026-08-27
 ---
 

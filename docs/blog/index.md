@@ -1,10 +1,10 @@
 ---
-title: 文章目录
-description: ChatGPT 中文指南全部公开文章，按主题和更新时间整理。
+title: ChatGPT 中文文章目录：官网、功能、模型与开发教程
+description: ChatGPT 中文指南全部公开文章目录，按官网入口、功能使用、图片生成、模型对比、开发工具和更新时间整理，方便快速找到对应教程。
 robots: index,follow
 ---
 
-# 文章目录
+# ChatGPT 中文文章目录
 
 这里汇总本站已经发布的 ChatGPT 官网、中文版、网页版、功能、Prompt、Codex、API 和多模型教程。每篇文章只服务一个清晰问题；遇到入口、模型和政策变化时，请优先查看文章中的官方来源。
 

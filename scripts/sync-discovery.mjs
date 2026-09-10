@@ -72,7 +72,16 @@ const articles = entries
   .sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title, 'zh-CN'))
 
 const blogIndex = `---\ntitle: 文章目录\ndescription: ChatGPT 中文指南全部公开文章，按主题和更新时间整理。\nrobots: index,follow\n---\n\n# 文章目录\n\n这里汇总本站已经发布的 ChatGPT 官网、中文版、网页版、功能、Prompt、Codex、API 和多模型教程。每篇文章只服务一个清晰问题；遇到入口、模型和政策变化时，请优先查看文章中的官方来源。\n\n${articles.map((entry) => `- **${entry.date}** · [${entry.title}](${entry.route})${entry.description ? `：${entry.description}` : ''}`).join('\n')}\n`
-write(path.join(docsDir, 'blog', 'index.md'), blogIndex)
+write(
+  path.join(docsDir, 'blog', 'index.md'),
+  blogIndex
+    .replace('title: 文章目录', 'title: ChatGPT 中文文章目录：官网、功能、模型与开发教程')
+    .replace(
+      'description: ChatGPT 中文指南全部公开文章，按主题和更新时间整理。',
+      'description: ChatGPT 中文指南全部公开文章目录，按官网入口、功能使用、图片生成、模型对比、开发工具和更新时间整理，方便快速找到对应教程。',
+    )
+    .replace('# 文章目录', '# ChatGPT 中文文章目录'),
+)
 
 function write(file, content) {
   fs.mkdirSync(path.dirname(file), { recursive: true })
@@ -85,7 +94,7 @@ const latestRows = articles.slice(0, 40).map((entry) =>
 
 write(
   path.join(docsDir, 'latest', 'index.md'),
-  `---\ntitle: 最新更新\ndescription: ChatGPT 中文指南最近修订的文章，按更新时间整理。\nrobots: noindex,follow\n---\n\n# 最新更新\n\n这里按文章的实际修订日期倒序列出本站最近更新的内容。更新时间只表示本站内容修订时间，不代表相关产品一定在同一天发生变化；涉及账号、模型、价格和地区可用性时，请回到文章中的官方来源核对。\n\n${latestRows.join('\n')}\n`,
+  `---\ntitle: ChatGPT 最新更新：近期修订文章与主题变化\ndescription: 查看 ChatGPT 中文指南最近修订的文章，按更新时间了解官网入口、功能教程、模型资料和开发工具内容的最新变化。\nrobots: noindex,follow\n---\n\n# ChatGPT 最新更新\n\n这里按文章的实际修订日期倒序列出本站最近更新的内容。更新时间只表示本站内容修订时间，不代表相关产品一定在同一天发生变化；涉及账号、模型、价格和地区可用性时，请回到文章中的官方来源核对。\n\n${latestRows.join('\n')}\n`,
 )
 
 const llms = [
@@ -125,7 +134,7 @@ write(path.join(publicDir, 'sitemap.html'), sitemapHtml)
 
 write(
   path.join(publicDir, 'robots.txt'),
-  `User-agent: *\nAllow: /\nDisallow: /404\nDisallow: /404.html\n\nSitemap: ${siteUrl}/sitemap.xml\n`,
+  `User-agent: *\nAllow: /\nDisallow: /404\nDisallow: /404.html\n\nSitemap: ${siteUrl}/sitemap.xml\nSitemap: ${siteUrl}/sitemap.txt\nSitemap: ${siteUrl}/sitemap.html\n`,
 )
 
 if (process.argv.includes('--post-build') && fs.existsSync(distDir)) {

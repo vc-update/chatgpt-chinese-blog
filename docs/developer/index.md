@@ -1,6 +1,6 @@
 ---
-title: ChatGPT开发者与Codex教程
-description: OpenAI Codex安装、API Key安全配置和开发者使用教程目录。
+title: ChatGPT 开发者与 Codex 教程：API、安全与项目实践
+description: OpenAI Codex 安装、API Key 安全配置、项目权限、命令行使用和开发者常见问题教程目录，帮助你按步骤完成安全配置与排查。
 updated: 2026-08-27
 ---
 

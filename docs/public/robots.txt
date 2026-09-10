@@ -4,3 +4,5 @@ Disallow: /404
 Disallow: /404.html
 
 Sitemap: https://chatgpt-chinese.blog/sitemap.xml
+Sitemap: https://chatgpt-chinese.blog/sitemap.txt
+Sitemap: https://chatgpt-chinese.blog/sitemap.html

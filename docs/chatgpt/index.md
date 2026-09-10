@@ -1,6 +1,6 @@
 ---
-title: ChatGPT使用指南
-description: ChatGPT官网、中文版、网页版、注册登录、文件图片和镜像安全使用指南目录。
+title: ChatGPT 使用指南：官网入口、网页版与功能教程
+description: ChatGPT 官网、中文版、网页版、注册登录、文件图片和第三方平台安全使用指南目录，按实际任务整理入口核验和操作步骤。
 updated: 2026-08-27
 ---
 
