@@ -12,7 +12,7 @@ image: /hero-ai-blog.png
 <div class="product-recommend-box">
   <strong>先从 AI 产品入口开始</strong>
   <p>如果你想先用中文界面体验多模型对话、文件处理、图片和办公任务，可以访问 <a href="https://gptcat.cc/" target="_blank" rel="nofollow sponsored noopener noreferrer">GPTCat</a>，或进入 <a href="https://snakegpt.vip/" target="_blank" rel="nofollow sponsored noopener noreferrer">SnakeGPT</a>。</p>
-  <p>目前产品侧主要提供 GPT-5.6、Claude 5.0、Grok 4.5、Gemini 3.1 Pro、DeepSeek-V3 等模型，具体模型名称、额度、工具和价格会根据产品版本持续更新。GPT-6 Astra 相关入口也会随版本逐步完善，使用时以产品页面当前显示为准。</p>
+  <p>目前产品侧主要提供 GPT-5.6、Claude 5.0、Grok 4.5、Gemini 3.1 Pro、DeepSeek-V3 等模型，具体模型名称、额度、工具和价格会根据产品版本持续更新。GPTCat、SnakeGPT 已接入 GPT-6 Astra，可从产品内的模型列表直接选择体验；使用时以产品页面当前显示为准。</p>
 </div>
 
 <p class="article-updated">更新时间：2026年9月11日</p>
