@@ -14,6 +14,7 @@
 - [模型与对比](https://chatgpt-chinese.blog/models/): ChatGPT、Claude、Gemini、Grok 的任务选择。
 
 ## 文章索引
+- [ChatGPT官网入口最新地址：网页版、中文版与国内使用指南（2026）](https://chatgpt-chinese.blog/chatgpt/official-entry-chinese-guide-2026)
 - [ChatGPT Images 2.5来了：新功能、提示词与图片编辑教程（2026）](https://chatgpt-chinese.blog/guides/chatgpt-images-2-5-guide-2026)
 - [ChatGPT 表格分析怎么做？Excel、CSV 上传与提问模板【2026年9月】](https://chatgpt-chinese.blog/guides/chatgpt-spreadsheet-analysis-tutorial-20260908)
 - [GPT-6 Astra怎么用？入口、可用范围与API模型名指南（2026）](https://chatgpt-chinese.blog/models/gpt-6-astra-use-guide-2026)
@@ -23,7 +24,6 @@
 - [ChatGPT生成图片进阶教程：职场宣传海报的构思、提示词与迭代方法](https://chatgpt-chinese.blog/guides/chatgpt-image-poster-advanced-guide-2026)
 - [ChatGPT长文档总结与资料整理教程：分段、引用、复核和隐私](https://chatgpt-chinese.blog/guides/chatgpt-long-document-summary-guide-2026)
 - [ChatGPT、Claude、Gemini、Grok怎么选：写作、长文档、联网和编程对比](https://chatgpt-chinese.blog/models/chatgpt-claude-gemini-grok-comparison-guide-2026)
-- [ChatGPT官网入口与中文版使用指南：官方网址、网页版和国内访问边界](https://chatgpt-chinese.blog/chatgpt/official-entry-chinese-guide-2026)
 - [ChatGPT提示词写作教程：中文任务怎么写得清楚，附可复制模板](https://chatgpt-chinese.blog/guides/prompt-writing-guide-2026)
 - [ChatGPT网页版在线使用教程：官网登录、中文设置、手机电脑免下载](https://chatgpt-chinese.blog/chatgpt/web-online-use-guide-2026)
 - [ChatGPT文件与图片上传教程：PDF、表格、截图、隐私脱敏与结果复核](https://chatgpt-chinese.blog/chatgpt/file-image-upload-guide-2026)

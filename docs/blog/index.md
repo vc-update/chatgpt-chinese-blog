@@ -8,6 +8,7 @@ robots: index,follow
 
 这里汇总本站已经发布的 ChatGPT 官网、中文版、网页版、功能、Prompt、Codex、API 和多模型教程。每篇文章只服务一个清晰问题；遇到入口、模型和政策变化时，请优先查看文章中的官方来源。
 
+- **2026-09-10** · [ChatGPT官网入口最新地址：网页版、中文版与国内使用指南（2026）](/chatgpt/official-entry-chinese-guide-2026)：ChatGPT官网入口、网页版地址、中文版使用方法和国内用户常见问题整理，包含登录、手机电脑访问、模型功能与安全核验步骤。
 - **2026-09-09** · [ChatGPT Images 2.5来了：新功能、提示词与图片编辑教程（2026）](/guides/chatgpt-images-2-5-guide-2026)：ChatGPT Images 2.5 官方更新整理，介绍参考图保真、精准编辑、多轮一致性、Sketch、模板、分享和 API 模型，并附可复制提示词。
 - **2026-09-08** · [ChatGPT 表格分析怎么做？Excel、CSV 上传与提问模板【2026年9月】](/guides/chatgpt-spreadsheet-analysis-tutorial-20260908)：从 Excel 和 CSV 文件整理、字段说明、指标提问到结果复核，讲清 ChatGPT 表格分析的完整流程，并提供可复制的中文提示词模板。
 - **2026-09-07** · [GPT-6 Astra怎么用？入口、可用范围与API模型名指南（2026）](/models/gpt-6-astra-use-guide-2026)：GPT-6 Astra怎么用、在哪里进入、哪些ChatGPT套餐可以使用，以及API模型名、请求示例和企业接入核验方法。
@@ -17,7 +18,6 @@ robots: index,follow
 - **2026-08-30** · [ChatGPT生成图片进阶教程：职场宣传海报的构思、提示词与迭代方法](/guides/chatgpt-image-poster-advanced-guide-2026)：面向职场用户的 ChatGPT 生图进阶教程，围绕宣传海报讲清需求拆解、构图、文案、品牌风格、分步修改和交付检查，并提供可复制 Prompt。
 - **2026-08-28** · [ChatGPT长文档总结与资料整理教程：分段、引用、复核和隐私](/guides/chatgpt-long-document-summary-guide-2026)：ChatGPT 长文档总结与资料整理教程，覆盖 PDF、会议记录、研究资料的拆分方法、提示词模板、引用核对、事实复核和隐私保护。
 - **2026-08-27** · [ChatGPT、Claude、Gemini、Grok怎么选：写作、长文档、联网和编程对比](/models/chatgpt-claude-gemini-grok-comparison-guide-2026)：ChatGPT、Claude、Gemini、Grok 多模型选择指南，按写作、长文档、联网信息、代码、图片和账号边界比较测试方法，不做绝对排名。
-- **2026-08-27** · [ChatGPT官网入口与中文版使用指南：官方网址、网页版和国内访问边界](/chatgpt/official-entry-chinese-guide-2026)：核对 ChatGPT 官网入口、OpenAI 官方页面、中文界面、网页版和第三方镜像的区别，并整理国内用户的安全使用步骤。
 - **2026-08-27** · [ChatGPT提示词写作教程：中文任务怎么写得清楚，附可复制模板](/guides/prompt-writing-guide-2026)：ChatGPT 中文提示词写作教程，说明目标、背景、输入、限制和输出格式五个要素，并提供学习、办公、写作和代码任务模板。
 - **2026-08-27** · [ChatGPT网页版在线使用教程：官网登录、中文设置、手机电脑免下载](/chatgpt/web-online-use-guide-2026)：ChatGPT网页版在线使用步骤，覆盖电脑、手机浏览器、中文设置、登录同步、文件操作和打不开时的排查顺序。
 - **2026-08-27** · [ChatGPT文件与图片上传教程：PDF、表格、截图、隐私脱敏与结果复核](/chatgpt/file-image-upload-guide-2026)：ChatGPT 文件和图片上传教程，覆盖 PDF、表格、截图识别、提示词写法、隐私脱敏、识别错误和结果复核。
