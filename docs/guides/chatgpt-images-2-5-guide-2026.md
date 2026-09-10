@@ -233,6 +233,11 @@ Flare 更适合速度和批量生成，Sunburst 更适合精细编辑和高要�
 - [ChatGPT文件与图片上传教程](/chatgpt/file-image-upload-guide-2026)
 - [GPT-6 Astra来了：能力、跑分、价格与使用指南](/models/gpt-6-astra-guide-2026)
 
+### 其他站点延伸阅读
+
+- [GPT Images 2.5怎么用？官方更新、Sketch草图与 AI 生图提示词教程](https://chatgpt-guides.com/chatgpt/chatgpt-images-2-5-official-update-prompt-guide-2026-09)
+- [ChatGPT Images 2.5发布了吗？新功能、开放时间与使用入口](https://gpt-chinese-guide.com/chatgpt/chatgpt-images-2-5-release-features-guide-2026-09)
+
 ## 总结
 
 ChatGPT Images 2.5 的使用重点不是把提示词写得越来越长，而是把参考图、保留项、修改项和输出渠道说清楚。先用 Sketch 或模板确定结构，再用分轮编辑完善画面；需要批量探索时选择 Flare，需要精细交付时考虑 Sunburst。最后通过人工校对和授权检查，把生成结果变成真正可发布的图片。

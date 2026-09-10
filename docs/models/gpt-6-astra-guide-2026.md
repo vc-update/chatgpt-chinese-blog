@@ -160,6 +160,11 @@ OpenAI 官方公布的 API Standard 价格是：输入每百万 token 10 美元�
 - [ChatGPT长文档总结与资料整理教程](/guides/chatgpt-long-document-summary-guide-2026)
 - [GPT-6 Astra怎么用？入口、可用范围与API模型名指南](/models/gpt-6-astra-use-guide-2026)
 
+### 其他站点延伸阅读
+
+- [GPT-6 Astra发布、能力与官方入口核验指南](https://chatgpt-guanwang.com/guides/gpt-6-astra-release-capabilities-benchmark-guide-20260904)
+- [GPT-6 Astra开放了吗？ChatGPT Plus、Codex与API资格查询](https://gpt-chinese-guide.com/chatgpt/gpt-6-astra-latest-availability-codex-api-guide-2026-09)
+
 ## 总结
 
 GPT-6 Astra 的升级重点可以概括为三点：更强的电脑与浏览器操作、更可靠的专业交付物生成，以及更高的代码、科学和长上下文任务上限。官方跑分提供了方向，但真正决定是否值得采用的，仍是你的资料、工具权限、人工复核和预算。先用一组可重复的真实任务做小规模测试，再逐步接入日常工作流，会比只看排行榜更稳妥。

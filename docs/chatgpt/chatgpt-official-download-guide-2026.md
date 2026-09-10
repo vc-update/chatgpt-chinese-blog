@@ -200,6 +200,11 @@ macOS 用户同样应先从 OpenAI 官方下载说明进入，再根据设备芯
 - [ChatGPT中文版与镜像网站安全选择](/chatgpt/chinese-version-mirror-safety-guide-2026)
 - [ChatGPT文件与图片上传教程](/chatgpt/file-image-upload-guide-2026)
 
+### 其他站点延伸阅读
+
+- [ChatGPT全平台下载与安装指南](https://chatgpt-guanwang.com/guides/chatgpt-download-all-platforms)
+- [ChatGPT官方应用下载：网页、桌面端与移动端平台说明](https://chatgpt-guides.com/chatgpt/chatgpt-app-download-official-platforms-2026)
+
 ## 总结
 
 查找“ChatGPT官方下载”时，最重要的不是下载速度，而是来源可核验。先从 OpenAI 官方下载说明或应用商店进入，再检查开发者、签名、域名和权限；遇到地区限制或登录问题时，回到官方状态页和帮助信息排查。

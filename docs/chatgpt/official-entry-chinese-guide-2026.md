@@ -299,6 +299,11 @@ ChatGPT 网页版入口是 [https://chatgpt.com/](https://chatgpt.com/)。建议
 - [ChatGPT Images 2.5图片编辑教程](/guides/chatgpt-images-2-5-guide-2026)
 - [GPT-6 Astra使用入口与API指南](/models/gpt-6-astra-use-guide-2026)
 
+### 其他站点延伸阅读
+
+- [ChatGPT官网与中文版使用终极指南](https://chatgpt-guides.com/chatgpt/chatgpt-official-chinese-ultimate-guide-gpt56-gpt5-gpt4o-2026-08)
+- [ChatGPT官网入口与登录地址核验](https://chatgpt-guanwang.com/official/chatgpt-com-official-entry-web-login-address-check-20260713)
+
 ## 总结
 
 查找 ChatGPT 官网入口时，日常使用记住 `chatgpt.com` 即可；需要产品公告、帮助、服务状态或 API 时，再进入对应页面。网页版适合电脑和手机直接使用，中文用户既可以调整界面语言，也可以直接用结构清晰的中文提示词完成写作、文件、表格、图片和编程任务。

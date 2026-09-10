@@ -173,6 +173,11 @@ Astra 可以处理浏览、文件、代码和多步骤任务，但工具是否�
 - [ChatGPT长文档总结与资料整理教程](/guides/chatgpt-long-document-summary-guide-2026)
 - [OpenAI API Key安全配置指南](/developer/api-key-security-guide-2026)
 
+### 其他站点延伸阅读
+
+- [GPT-6 Astra国内怎么用？模型菜单、API权限与实际功能核验指南](https://chatgpt-guanwang.com/guides/gpt-6-astra-domestic-use-model-menu-api-permission-guide-20260911)
+- [GPT-6 Astra开放了吗？ChatGPT Plus、Codex与API资格查询](https://gpt-chinese-guide.com/chatgpt/gpt-6-astra-latest-availability-codex-api-guide-2026-09)
+
 ## 总结
 
 GPT-6 Astra 的实用价值，取决于你能否把目标、输入、权限和验收标准写清楚。写作任务先搭结构，编程任务先定位再修改，长文档先建立索引再综合；所有涉及外部数据变化的动作，都在最后保留人工确认。用这套流程开始一组可重复的真实任务，比单次测试更容易判断它是否适合你的工作。

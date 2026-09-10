@@ -225,6 +225,11 @@ Enterprise 工作区默认关闭 Astra。成员需要联系管理员检查组织
 - [OpenAI API Key安全配置指南](/developer/api-key-security-guide-2026)
 - [OpenAI Codex安装与使用教程](/developer/codex-install-use-guide-2026)
 
+### 其他站点延伸阅读
+
+- [GPT-6 Astra开放了吗？ChatGPT Plus、Codex与API资格查询](https://gpt-chinese-guide.com/chatgpt/gpt-6-astra-latest-availability-codex-api-guide-2026-09)
+- [GPT-6 Astra国内怎么用？模型菜单、API权限与实际功能核验指南](https://chatgpt-guanwang.com/guides/gpt-6-astra-domestic-use-model-menu-api-permission-guide-20260911)
+
 ## 总结
 
 想使用 GPT-6 Astra，可以记住三个入口：ChatGPT 看模型选择器和工作区权限，API 使用 `gpt-6-astra`，企业云部署则检查 Azure 或 Bedrock 的区域、配额和认证设置。由于官方采用分阶段开放，暂时看不到模型并不代表配置错误。先用小任务验证质量和工具权限，再把它接入代码、文档和业务流程，会更容易得到稳定结果。
