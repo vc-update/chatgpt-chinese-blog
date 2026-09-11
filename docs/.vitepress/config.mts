@@ -9,7 +9,10 @@ const HOME_TITLE = 'ChatGPT官网入口 | ChatGPT中文版 | ChatGPT网页版使
 const DEFAULT_DESCRIPTION =
   '独立中文 ChatGPT 教程站，整理官网入口、ChatGPT 中文版、网页版在线使用、注册登录、文件图片、Prompt、Codex 与账号安全。'
 const DEFAULT_IMAGE = '/hero-ai-blog.png'
-const EXCLUDED_SITEMAP_PATHS = new Set(['/latest'])
+const EXCLUDED_SITEMAP_PATHS = new Set([
+  '/latest',
+  '/chatgpt/chatgpt-chinese-gpt5-domestic-guide-2026',
+])
 const ROOT_DIR = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 
 function normalizeRoute(relativePath = 'index.md') {
