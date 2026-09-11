@@ -4,6 +4,13 @@
   "framework": "vitepress",
   "cleanUrls": true,
   "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/chatgpt/chatgpt-chinese-gpt5-domestic-guide-2026",
+      "destination": "/chatgpt/chatgpt-chinese-gpt6-domestic-guide-2026",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",

@@ -68,7 +68,7 @@ const entries = walk(docsDir).map((file) => {
 })
 
 const articles = entries
-  .filter((entry) => entry.article)
+  .filter((entry) => entry.article && !/\bnoindex\b/i.test(entry.robots || ''))
   .sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title, 'zh-CN'))
 
 const blogIndex = `---\ntitle: 文章目录\ndescription: ChatGPT 中文指南全部公开文章，按主题和更新时间整理。\nrobots: index,follow\n---\n\n# 文章目录\n\n这里汇总本站已经发布的 ChatGPT 官网、中文版、网页版、功能、Prompt、Codex、API 和多模型教程。每篇文章只服务一个清晰问题；遇到入口、模型和政策变化时，请优先查看文章中的官方来源。\n\n${articles.map((entry) => `- **${entry.date}** · [${entry.title}](${entry.route})${entry.description ? `：${entry.description}` : ''}`).join('\n')}\n`
