@@ -1,5 +1,5 @@
 ---
-title: ChatGPT 官网中文版：GPT-5 国内使用完全攻略（支持 GPT-6，GPT-5.6 Sol，无需翻墙）【2026年9月最新更新】
+title: ChatGPT 官网中文版：GPT-6 国内使用完全攻略（支持 GPT-6，GPT-5.6sol，无需翻墙）【2026年9月最新更新】
 description: ChatGPT 官网中文版、GPT-5、GPT-5.6 Sol 与 GPT-6 使用攻略，整理网页版入口、中文设置、模型选择、登录排查、文件图片、提示词和国内用户常见问题。
 date: 2026-09-11
 updated: 2026-09-11
@@ -7,7 +7,7 @@ category: core
 image: /hero-ai-blog.png
 ---
 
-# ChatGPT 官网中文版：GPT-5 国内使用完全攻略（支持 GPT-6，GPT-5.6 Sol，无需翻墙）【2026年9月最新更新】
+# ChatGPT 官网中文版：GPT-6 国内使用完全攻略（支持 GPT-6，GPT-5.6sol，无需翻墙）【2026年9月最新更新】
 
 <div class="product-recommend-box">
   <strong>先从中文 AI 产品入口开始</strong>

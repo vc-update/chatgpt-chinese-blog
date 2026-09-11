@@ -8,7 +8,7 @@ robots: index,follow
 
 这里汇总本站已经发布的 ChatGPT 官网、中文版、网页版、功能、Prompt、Codex、API 和多模型教程。每篇文章只服务一个清晰问题；遇到入口、模型和政策变化时，请优先查看文章中的官方来源。
 
-- **2026-09-11** · [ChatGPT 官网中文版：GPT-5 国内使用完全攻略（支持 GPT-6，GPT-5.6 Sol，无需翻墙）【2026年9月最新更新】](/chatgpt/chatgpt-chinese-gpt5-domestic-guide-2026)：ChatGPT 官网中文版、GPT-5、GPT-5.6 Sol 与 GPT-6 使用攻略，整理网页版入口、中文设置、模型选择、登录排查、文件图片、提示词和国内用户常见问题。
+- **2026-09-11** · [ChatGPT 官网中文版：GPT-6 国内使用完全攻略（支持 GPT-6，GPT-5.6sol，无需翻墙）【2026年9月最新更新】](/chatgpt/chatgpt-chinese-gpt5-domestic-guide-2026)：ChatGPT 官网中文版、GPT-5、GPT-5.6 Sol 与 GPT-6 使用攻略，整理网页版入口、中文设置、模型选择、登录排查、文件图片、提示词和国内用户常见问题。
 - **2026-09-11** · [GPT-6 Astra 实战教程：写作、编程与长文档任务完整流程（2026）](/models/gpt-6-astra-practical-guide-2026)：GPT-6 Astra 实战教程，按写作、编程和长文档三个职场场景讲清任务拆解、提示词、工具权限、结果复核与交付步骤。
 - **2026-09-11** · [GPT-6 Astra怎么用？入口、权限核验与 API 模型名指南（2026）](/models/gpt-6-astra-use-guide-2026)：GPT-6 Astra 怎么用、在哪里进入、如何核对 ChatGPT 套餐和工作区权限，以及 API 模型名、请求示例和企业接入方法。
 - **2026-09-10** · [ChatGPT官网入口最新地址：网页版、中文版与国内使用指南（2026）](/chatgpt/official-entry-chinese-guide-2026)：ChatGPT官网入口、网页版地址、中文版使用方法和国内用户常见问题整理，包含登录、手机电脑访问、模型功能与安全核验步骤。
